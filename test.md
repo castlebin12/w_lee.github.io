@@ -9,3 +9,5 @@ GitHub에는 이미 수백 개의 Jekyll 테마가 공개되어 있습니다. je
 공개된 Jekyll 테마들
 
 이 글에서는 테마 리스트에서 가장 위에 보이는 minimal-mistakes라는 테마를 사용해 보겠습니다.
+
+![image](https://github.com/castlebin12/w_lee.github.io/blob/master/image/%EC%A3%BC%EC%84%9D%202020-03-15%20211611.png)
